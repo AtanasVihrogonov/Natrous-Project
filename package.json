@@ -4,7 +4,7 @@
   "description": "Landing page for Natours",
   "main": "index.js",
   "dependencies": {
-    "compile-sass": "1.1.0",
+    "compile-sass": "1.1.1",
     "npm": "^6.9.0"
   },
   "devDependencies": {
