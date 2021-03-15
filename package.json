@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "compile-sass": "1.1.0",
-    "npm": "^6.9.0"
+    "npm": "^7.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.0",
